@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4ee6c3ae-b4c5-4f44-9769-a343c3ee8ee0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaprojectdemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/basics/BinaryCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/basics/BinaryShift.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/basics/Bitwise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/basics/Cafe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/basics/Division.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/basics/Double.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/basics/DoubleDivides.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/basics/Input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/basics/IntegerVariables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/basics/JavaBasicClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/basics/ScannerExample.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2p0QELY3Llgq0kpQP6OnzoWlrzJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BinaryCode.executor": "Run",
+    "Application.BinaryShift.executor": "Run",
+    "Application.Cafe.executor": "Run",
+    "Application.Division.executor": "Run",
+    "Application.Double.executor": "Run",
+    "Application.DoubleDivides.executor": "Run",
+    "Application.Input.executor": "Run",
+    "Application.IntegerVariables.executor": "Run",
+    "Application.JavaBasicClass.executor": "Run",
+    "Application.Scanner.executor": "Run",
+    "Application.ScannerExample.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/devar/project_workspace/javaprojectdemo/src/Main.java"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.BinaryShift">
+    <configuration name="BinaryCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.perscholas.java.basics.BinaryCode" />
+      <module name="javaprojectdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.perscholas.java.basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BinaryShift" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.perscholas.java.basics.BinaryShift" />
+      <module name="javaprojectdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.perscholas.java.basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Cafe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.perscholas.java.basics.Cafe" />
+      <module name="javaprojectdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.perscholas.java.basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Input" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.perscholas.java.basics.Input" />
+      <module name="javaprojectdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.perscholas.java.basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScannerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.perscholas.java.basics.ScannerExample" />
+      <module name="javaprojectdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.perscholas.java.basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BinaryShift" />
+        <item itemvalue="Application.BinaryCode" />
+        <item itemvalue="Application.Input" />
+        <item itemvalue="Application.ScannerExample" />
+        <item itemvalue="Application.Cafe" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ee6c3ae-b4c5-4f44-9769-a343c3ee8ee0" name="Changes" comment="" />
+      <created>1731900401951</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731900401951</updated>
+    </task>
+    <servers />
+  </component>
+</project>
