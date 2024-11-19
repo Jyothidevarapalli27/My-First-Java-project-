@@ -4,28 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ee6c3ae-b4c5-4f44-9769-a343c3ee8ee0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaprojectdemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/basics/BinaryCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/basics/BinaryShift.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/basics/Bitwise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/basics/Cafe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/basics/Division.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/basics/Double.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/basics/DoubleDivides.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/basics/Input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/basics/IntegerVariables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/basics/JavaBasicClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/basics/ScannerExample.java" afterDir="false" />
-    </list>
+    <list default="true" id="4ee6c3ae-b4c5-4f44-9769-a343c3ee8ee0" name="Changes" comment=" Java First project." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -155,6 +134,19 @@
       <option name="presentableId" value="Default" />
       <updated>1731900401951</updated>
     </task>
+    <task id="LOCAL-00001" summary=" Java First project.">
+      <option name="closed" value="true" />
+      <created>1732029470160</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732029470160</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value=" Java First project." />
+    <option name="LAST_COMMIT_MESSAGE" value=" Java First project." />
   </component>
 </project>
