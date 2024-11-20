@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ee6c3ae-b4c5-4f44-9769-a343c3ee8ee0" name="Changes" comment=" My First Java project.">
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/basics/Bitwise_Increment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/basics/Bitwise_Or_Operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/basics/IncrementOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java/basics/Post_Fix_Increment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string_methods_prectice/LowerCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string_methods_prectice/StringConcat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string_methods_prectice/StringLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string_methods_prectice/StringTrim.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string_methods_prectice/StringUpperCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string_methods_prectice/String_IsEmpty.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/basics/Bitwise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/basics/BitwiseAndOperator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/basics/Cafe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/basics/Cafe.java" afterDir="false" />
-    </list>
+    <list default="true" id="4ee6c3ae-b4c5-4f44-9769-a343c3ee8ee0" name="Changes" comment=" My First Java project." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -176,7 +162,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732029744671</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary=" My First Java project.">
+      <option name="closed" value="true" />
+      <created>1732081053076</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1732081053076</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
