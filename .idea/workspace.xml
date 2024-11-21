@@ -4,38 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ee6c3ae-b4c5-4f44-9769-a343c3ee8ee0" name="Changes" comment=" My First Java project.">
-      <change afterPath="$PROJECT_DIR$/src/string_methods_class_Test_Assignment/LastIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string_methods_class_Test_Assignment/StringCompareTo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string_methods_class_Test_Assignment/StringContains.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string_methods_class_Test_Assignment/StringEquals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string_methods_class_Test_Assignment/StringIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string_methods_class_Test_Assignment/StringLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string_methods_class_Test_Assignment/String_Is_Empty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string_methods_class_Test_Assignment/String_StartsWith.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string_methods_precticeAssignments/CompareTo_Method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string_methods_precticeAssignments/ConcatMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string_methods_precticeAssignments/Contains_Method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string_methods_precticeAssignments/Equals_Method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string_methods_precticeAssignments/IndexOf_Method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string_methods_precticeAssignments/Replace_All_method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string_methods_precticeAssignments/Replace_method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string_methods_precticeAssignments/Scanner_IntMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string_methods_precticeAssignments/Scanner_String_Method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string_methods_precticeAssignments/StringSlitMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string_methods_precticeAssignments/StringUsing_equals_equalsOperate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string_methods_precticeAssignments/String_Char_At.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string_methods_precticeAssignments/SubString_Method.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/basics/BinaryCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/basics/BinaryCode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string_methods_prectice/LowerCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string_methods_precticeAssignments/LowerCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string_methods_prectice/StringConcat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string_methods_precticeAssignments/StringConcat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string_methods_prectice/StringLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string_methods_precticeAssignments/StringLength.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string_methods_prectice/StringTrim.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string_methods_precticeAssignments/StringTrim.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string_methods_prectice/StringUpperCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string_methods_precticeAssignments/StringUpperCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string_methods_prectice/String_IsEmpty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string_methods_precticeAssignments/String_IsEmpty.java" afterDir="false" />
-    </list>
+    <list default="true" id="4ee6c3ae-b4c5-4f44-9769-a343c3ee8ee0" name="Changes" comment=" My First Java project." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -227,7 +196,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732081407983</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary=" My First Java project.">
+      <option name="closed" value="true" />
+      <created>1732162314233</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1732162314233</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
