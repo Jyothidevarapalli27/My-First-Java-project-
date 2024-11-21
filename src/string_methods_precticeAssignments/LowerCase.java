@@ -1,4 +1,4 @@
-package string_methods_prectice;
+package string_methods_precticeAssignments;
 
 public class LowerCase {
     public static void main(String[]args){

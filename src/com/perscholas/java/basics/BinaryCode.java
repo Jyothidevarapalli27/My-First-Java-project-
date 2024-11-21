@@ -10,7 +10,6 @@ public class BinaryCode {
             System.out.println("value of x: " + x);
             System.out.println("Binary: " + Integer.toBinaryString(x));
 
-
             x = x << 1;
 
             System.out.println("After left shift by 1:");

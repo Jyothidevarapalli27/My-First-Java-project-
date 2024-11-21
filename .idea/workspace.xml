@@ -4,7 +4,38 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ee6c3ae-b4c5-4f44-9769-a343c3ee8ee0" name="Changes" comment=" My First Java project." />
+    <list default="true" id="4ee6c3ae-b4c5-4f44-9769-a343c3ee8ee0" name="Changes" comment=" My First Java project.">
+      <change afterPath="$PROJECT_DIR$/src/string_methods_class_Test_Assignment/LastIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string_methods_class_Test_Assignment/StringCompareTo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string_methods_class_Test_Assignment/StringContains.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string_methods_class_Test_Assignment/StringEquals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string_methods_class_Test_Assignment/StringIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string_methods_class_Test_Assignment/StringLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string_methods_class_Test_Assignment/String_Is_Empty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string_methods_class_Test_Assignment/String_StartsWith.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string_methods_precticeAssignments/CompareTo_Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string_methods_precticeAssignments/ConcatMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string_methods_precticeAssignments/Contains_Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string_methods_precticeAssignments/Equals_Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string_methods_precticeAssignments/IndexOf_Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string_methods_precticeAssignments/Replace_All_method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string_methods_precticeAssignments/Replace_method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string_methods_precticeAssignments/Scanner_IntMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string_methods_precticeAssignments/Scanner_String_Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string_methods_precticeAssignments/StringSlitMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string_methods_precticeAssignments/StringUsing_equals_equalsOperate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string_methods_precticeAssignments/String_Char_At.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string_methods_precticeAssignments/SubString_Method.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java/basics/BinaryCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java/basics/BinaryCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string_methods_prectice/LowerCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string_methods_precticeAssignments/LowerCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string_methods_prectice/StringConcat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string_methods_precticeAssignments/StringConcat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string_methods_prectice/StringLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string_methods_precticeAssignments/StringLength.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string_methods_prectice/StringTrim.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string_methods_precticeAssignments/StringTrim.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string_methods_prectice/StringUpperCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string_methods_precticeAssignments/StringUpperCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string_methods_prectice/String_IsEmpty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string_methods_precticeAssignments/String_IsEmpty.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,9 +51,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2p0QELY3Llgq0kpQP6OnzoWlrzJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -37,22 +71,37 @@
     "Application.Bitwise_Increment.executor": "Run",
     "Application.Bitwise_Or_Operator.executor": "Run",
     "Application.Cafe.executor": "Run",
+    "Application.CompareTo_Method.executor": "Run",
+    "Application.ConcatMethod.executor": "Run",
+    "Application.Contains_Method.executor": "Run",
     "Application.Division.executor": "Run",
     "Application.Double.executor": "Run",
     "Application.DoubleDivides.executor": "Run",
+    "Application.Equals_Method.executor": "Run",
     "Application.IncrementOperator.executor": "Run",
+    "Application.IndexOf_Method.executor": "Run",
     "Application.Input.executor": "Run",
     "Application.IntegerVariables.executor": "Run",
     "Application.JavaBasicClass.executor": "Run",
     "Application.LowerCase.executor": "Run",
     "Application.Post_Fix_Increment.executor": "Run",
+    "Application.Replace_All_method.executor": "Run",
+    "Application.Replace_method.executor": "Run",
     "Application.Scanner.executor": "Run",
     "Application.ScannerExample.executor": "Run",
+    "Application.Scanner_Method.executor": "Run",
+    "Application.Scanner_String_Method.executor": "Run",
     "Application.StringConcat.executor": "Run",
+    "Application.StringContains.executor": "Run",
     "Application.StringLength.executor": "Run",
     "Application.StringTrim.executor": "Run",
     "Application.StringUpperCase.executor": "Run",
+    "Application.StringUsing_equals_equalsOperate.executor": "Run",
+    "Application.String_Char_At.executor": "Run",
     "Application.String_IsEmpty.executor": "Run",
+    "Application.String_StartsWith.executor": "Run",
+    "Application.SubString_Method.executor": "Run",
+    "Application.stringSlitMethod.executor": "Run",
     "Application.string_methods_prectice.StringLength.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -61,13 +110,13 @@
     "onboarding.tips.debug.path": "C:/Users/devar/project_workspace/javaprojectdemo/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.StringConcat">
-    <configuration name="Cafe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.perscholas.java.basics.Cafe" />
+  <component name="RunManager" selected="Application.Scanner_String_Method">
+    <configuration name="Equals_Method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string_methods_precticeAssignments.Equals_Method" />
       <module name="javaprojectdemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.perscholas.java.basics.*" />
+          <option name="PATTERN" value="string_methods_precticeAssignments.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LowerCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string_methods_prectice.LowerCase" />
+    <configuration name="Replace_All_method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string_methods_precticeAssignments.Replace_All_method" />
       <module name="javaprojectdemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="string_methods_prectice.*" />
+          <option name="PATTERN" value="string_methods_precticeAssignments.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringConcat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string_methods_prectice.StringConcat" />
+    <configuration name="Scanner_IntMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string_methods_precticeAssignments.Scanner_IntMethod" />
       <module name="javaprojectdemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="string_methods_prectice.*" />
+          <option name="PATTERN" value="string_methods_precticeAssignments.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +150,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringTrim" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string_methods_prectice.StringTrim" />
+    <configuration name="Scanner_String_Method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string_methods_precticeAssignments.Scanner_String_Method" />
       <module name="javaprojectdemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="string_methods_prectice.*" />
+          <option name="PATTERN" value="string_methods_precticeAssignments.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +163,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringUpperCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string_methods_prectice.StringUpperCase" />
+    <configuration name="StringUsing_equals_equalsOperate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string_methods_precticeAssignments.StringUsing_equals_equalsOperate" />
       <module name="javaprojectdemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="string_methods_prectice.*" />
+          <option name="PATTERN" value="string_methods_precticeAssignments.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StringConcat" />
-        <item itemvalue="Application.StringUpperCase" />
-        <item itemvalue="Application.LowerCase" />
-        <item itemvalue="Application.StringTrim" />
-        <item itemvalue="Application.Cafe" />
+        <item itemvalue="Application.Scanner_String_Method" />
+        <item itemvalue="Application.Scanner_IntMethod" />
+        <item itemvalue="Application.StringUsing_equals_equalsOperate" />
+        <item itemvalue="Application.Equals_Method" />
+        <item itemvalue="Application.Replace_All_method" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +219,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732081053076</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary=" My First Java project.">
+      <option name="closed" value="true" />
+      <created>1732081407983</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1732081407983</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
