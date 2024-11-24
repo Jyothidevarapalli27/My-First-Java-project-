@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ee6c3ae-b4c5-4f44-9769-a343c3ee8ee0" name="Changes" comment=" My First Java project." />
+    <list default="true" id="4ee6c3ae-b4c5-4f44-9769-a343c3ee8ee0" name="Changes" comment=" My First Java project.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,60 +34,63 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.BinaryCode.executor": "Run",
-    "Application.BinaryShift.executor": "Run",
-    "Application.BitwiseAndOperator.executor": "Run",
-    "Application.Bitwise_Increment.executor": "Run",
-    "Application.Bitwise_Or_Operator.executor": "Run",
-    "Application.Cafe.executor": "Run",
-    "Application.CompareTo_Method.executor": "Run",
-    "Application.ConcatMethod.executor": "Run",
-    "Application.Contains_Method.executor": "Run",
-    "Application.Division.executor": "Run",
-    "Application.Double.executor": "Run",
-    "Application.DoubleDivides.executor": "Run",
-    "Application.Equals_Method.executor": "Run",
-    "Application.IncrementOperator.executor": "Run",
-    "Application.IndexOf_Method.executor": "Run",
-    "Application.Input.executor": "Run",
-    "Application.IntegerVariables.executor": "Run",
-    "Application.JavaBasicClass.executor": "Run",
-    "Application.LowerCase.executor": "Run",
-    "Application.Post_Fix_Increment.executor": "Run",
-    "Application.Replace_All_method.executor": "Run",
-    "Application.Replace_method.executor": "Run",
-    "Application.Scanner.executor": "Run",
-    "Application.ScannerExample.executor": "Run",
-    "Application.Scanner_Method.executor": "Run",
-    "Application.Scanner_String_Method.executor": "Run",
-    "Application.StringConcat.executor": "Run",
-    "Application.StringContains.executor": "Run",
-    "Application.StringLength.executor": "Run",
-    "Application.StringTrim.executor": "Run",
-    "Application.StringUpperCase.executor": "Run",
-    "Application.StringUsing_equals_equalsOperate.executor": "Run",
-    "Application.String_Char_At.executor": "Run",
-    "Application.String_IsEmpty.executor": "Run",
-    "Application.String_StartsWith.executor": "Run",
-    "Application.SubString_Method.executor": "Run",
-    "Application.stringSlitMethod.executor": "Run",
-    "Application.string_methods_prectice.StringLength.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/devar/project_workspace/javaprojectdemo/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.BinaryCode.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BinaryShift.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BitwiseAndOperator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Bitwise_Increment.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Bitwise_Or_Operator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Cafe.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CompareTo_Method.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConcatMethod.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Contains_Method.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Division.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Double.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DoubleDivides.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Equals_Method.executor&quot;: &quot;Run&quot;,
+    &quot;Application.If_Statement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.If_grater_Then.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IncrementOperator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IndexOf_Method.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Input.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IntegerVariables.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JavaBasicClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LowerCase.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Post_Fix_Increment.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Replace_All_method.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Replace_method.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Scanner.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ScannerExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Scanner_Method.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Scanner_String_Method.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringConcat.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringContains.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringLength.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringTrim.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringUpperCase.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringUsing_equals_equalsOperate.executor&quot;: &quot;Run&quot;,
+    &quot;Application.String_Char_At.executor&quot;: &quot;Run&quot;,
+    &quot;Application.String_IsEmpty.executor&quot;: &quot;Run&quot;,
+    &quot;Application.String_StartsWith.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SubString_Method.executor&quot;: &quot;Run&quot;,
+    &quot;Application.stringSlitMethod.executor&quot;: &quot;Run&quot;,
+    &quot;Application.string_methods_prectice.StringLength.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/devar/project_workspace/javaprojectdemo/src/Main.java&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Scanner_String_Method">
-    <configuration name="Equals_Method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string_methods_precticeAssignments.Equals_Method" />
+}</component>
+  <component name="RunManager" selected="Application.Palindrome">
+    <configuration name="If_Statement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_controlflow.If_Statement" />
       <module name="javaprojectdemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="string_methods_precticeAssignments.*" />
+          <option name="PATTERN" value="java_controlflow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Replace_All_method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string_methods_precticeAssignments.Replace_All_method" />
+    <configuration name="If_grater_Then" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_controlflow.If_grater_Then" />
       <module name="javaprojectdemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="string_methods_precticeAssignments.*" />
+          <option name="PATTERN" value="java_controlflow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scanner_IntMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string_methods_precticeAssignments.Scanner_IntMethod" />
+    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_controlflow.Palindrome" />
       <module name="javaprojectdemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="string_methods_precticeAssignments.*" />
+          <option name="PATTERN" value="java_controlflow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,8 +137,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringUsing_equals_equalsOperate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string_methods_precticeAssignments.StringUsing_equals_equalsOperate" />
+    <configuration name="StringTrim" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string_methods_precticeAssignments.StringTrim" />
       <module name="javaprojectdemo" />
       <extension name="coverage">
         <pattern>
@@ -147,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Palindrome" />
+        <item itemvalue="Application.If_grater_Then" />
+        <item itemvalue="Application.If_Statement" />
+        <item itemvalue="Application.StringTrim" />
         <item itemvalue="Application.Scanner_String_Method" />
-        <item itemvalue="Application.Scanner_IntMethod" />
-        <item itemvalue="Application.StringUsing_equals_equalsOperate" />
-        <item itemvalue="Application.Equals_Method" />
-        <item itemvalue="Application.Replace_All_method" />
       </list>
     </recent_temporary>
   </component>
@@ -204,7 +209,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732162314233</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary=" My First Java project.">
+      <option name="closed" value="true" />
+      <created>1732196023546</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1732196023546</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
